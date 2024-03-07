@@ -1,8 +1,3 @@
----
-name: 模板1
-about: 模板描述，对应的pr模板卡片展示时候能看到，介绍模板
----
-
 <!--- Provide a general summary of your changes in the Title above -->
 <!--- Title format: [type](scope): Short summary [Related issue number] --> 
 <!--- "type" includes:                                        -->
@@ -39,6 +34,7 @@ about: 模板描述，对应的pr模板卡片展示时候能看到，介绍模�
 
 Please make sure all the items in the checklist are completed
 
+- [ ]  The pull request title follows the format
 - [ ]  Code complies with the project's code standards and best practices
 - [ ]  Code has been tested
 - [ ]  Code has appropriately commented
