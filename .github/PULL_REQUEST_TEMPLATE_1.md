@@ -1,5 +1,5 @@
 ---
-name: 模板1
+name: 模板3
 about: 模板描述，对应的pr模板卡片展示时候能看到，介绍模板
 ---
 <!--- Provide a general summary of your changes in the Title above -->
